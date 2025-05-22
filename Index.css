@@ -1,0 +1,21 @@
+form{
+    border: solid 0px;
+    width: 700px;
+    padding-left: 0px;
+    font-size: 18px;
+}
+body{
+    background-image: url(milkshake.jpg);
+    background-repeat: no-repeat;
+    background-size:  1400px 600px;
+}
+input{
+    font-weight: bold;
+    border-radius: 10px;
+}
+button{
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
